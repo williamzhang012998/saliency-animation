@@ -38,8 +38,17 @@ Scroll down to see the speed. Blue line is custom, orange is constant speed. Whe
 
 ![alt text](https://github.com/williamzhang012998/saliency-animation/blob/master/TABLE.png)
 
-## Evaluation Design
+## Evaluation design
+Our research question was whether video of the same length played at the saliency adjusted speed improves user’s comprehension level compared to the video played at normal speed. To do this, we have devised five pre video true or false questions and one post video system review question.
 
+See Evaluation.pptx for more information.
+
+## Further research
+- Bring system online
+- Make system compatible with other forms of visualizations
+	- Bar graphs
+	- Line graphs
+	
 
 
 
