@@ -36,6 +36,7 @@ Scroll down to see the speed. Blue line is custom, orange is constant speed. Whe
 
 ![alt text](https://github.com/williamzhang012998/saliency-animation/blob/master/flow.png)
 
+![alt text](https://github.com/williamzhang012998/saliency-animation/blob/master/TABLE.png)
 
 ## Evaluation Design
 
